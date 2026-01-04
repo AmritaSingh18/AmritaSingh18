@@ -5,4 +5,4 @@
 📌 Building real-world projects and improving DSA  
 🎯 Seeking ML / Software Intern opportunities  
 
-📫 LinkedIn: https://linkedin.com/in/your-profile
+📫 LinkedIn: https://www.linkedin.com/in/amrita-singh-s18
